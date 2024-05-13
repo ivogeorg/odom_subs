@@ -11,7 +11,7 @@ find_package(catkin REQUIRED COMPONENTS
   nav_msgs
   roscpp
   rospy
-  test_library
+  velocity_library
 )
 
 ## System dependencies are found with CMake's conventions
